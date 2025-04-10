@@ -1,0 +1,2 @@
+# The Substance Vs Anora
+ Project not finished. I am coparing the two most awardes films this year, The Substance and Anora. The project focuses on sentiment analysis, box office performance, and potentially other metrics. The purpose of this comparison is to explore how audience reception aligns (or doesn't) with industry recognition. This project will help uncover information how the critally acclaimed films are percieved outside of the awards circuit. 
